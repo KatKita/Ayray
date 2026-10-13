@@ -1,7 +1,7 @@
 # Welcome to the ***Ayray*** Repository?!
 
 <div align="center">
-  <img src="https://github.com/KatKita/Ayray/blob/main/Assets/Images/Ayray/Png/ayray.png?raw=true" alt="Ayray" width="300">
+  <img src="https://github.com/KatKita/Ayray/blob/main/Assets/Images/Ayray/Default/ayray.png?raw=true" alt="Ayray" width="300">
 </div>
 
 ## What is this?
@@ -25,7 +25,7 @@ Anyway, welcome to the repo!
 ## OMG AYRAY 1997!!!!!!!!
 
 <div align="center">
-  <img src="https://github.com/KatKita/Ayray/blob/main/Assets/Images/Ayray/Png/ayray%201997.png?raw=true"
+  <img src="https://github.com/KatKita/Ayray/blob/main/Assets/Images/Ayray/1997/ayray%201997.png?raw=true"
        alt="Ayray 1997"
        width="100%"
        height="300">
